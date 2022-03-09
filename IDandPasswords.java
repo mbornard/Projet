@@ -20,7 +20,7 @@ public class IDandPasswords {
 	PasswordAuthentication pa = new PasswordAuthentication();
 
 
-	IDandPasswords(String nomFic) {
+	IDandPasswords() {
 
 		// loginInfo.put("admin", "root");
 		// loginInfo.put("acceuil", "test");
