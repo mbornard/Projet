@@ -6,8 +6,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		boolean goodLoginPassword = false;
-		IDandPasswords idPass = new IDandPasswords(
-				"/Users/matissebornard/eclipse-workspace/Projet_java_Perso/src/projet/Properties.csv");
+		IDandPasswords idPass = new IDandPasswords();
 		Scanner sc = new Scanner(System.in);
 		String userID = null;
 		String password = null;
