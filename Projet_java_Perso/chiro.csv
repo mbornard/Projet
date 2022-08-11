@@ -1,0 +1,20 @@
+  nom,  prenom,  numtel,  mail,  NumSecu,  DateNaissance, DateRDV, duree, motif
+Dupont,Antoine,0607,dupont@gmail.com,12343,15/11/1996,07/05/2022 16:00,20,match
+tibo,pabo,03,t@gmail.com,12342,25/01/1999,09/05/2022 13:00,45,test
+tibo,pabo,03,t@gmail.com,12342,25/01/1999,09/05/2022 14:30,45,test
+tibo,pabo,03,t@gmail.com,12342,25/01/1999,09/05/2022 18:00,45,a
+tibo,pabo,03,t@gmail.com,12342,25/01/1999,10/05/2022 06:00,45,test
+tibo,pabo,03,t@gmail.com,12342,25/01/1999,16/05/2022 08:00,45,test
+Dupont,Antoine,0607,dupont@gmail.com,12343,15/11/1996,17/05/2022 16:00,20,match2
+tibo,pabo,03,t@gmail.com,12342,25/01/1999,18/05/2022 07:00,45,a
+JD,Michel,03,m@gmail.com,12340,22/01/1998,23/05/2022 09:00,45,covid
+JD,jean,03,m@gmail.com,12341,22/01/2002,23/05/2022 14:00,20,covid
+tibo,pabo,03,t@gmail.com,12342,25/01/1999,23/05/2022 15:00,20,covid
+tibo,pabo,03,t@gmail.com,12342,25/01/1999,25/05/2022 08:00,45,a
+Dupont,Antoine,0607,dupont@gmail.com,12343,15/11/1996,04/06/2022 19:30,30,match
+marchand,julien,0907031243,jm@st.fr,195391037562910,10/05/1995,06/06/2022 09:00,45,récup match
+Dupont,Antoine,0607,dupont@gmail.com,12343,15/11/1996,08/06/2022 09:00,30,malade
+John,Reese,09080706,j@r.fr,5678945678,25/09/1976,23/06/2022 08:00,45,malade
+Dupont,Antoine,0607,dupont@gmail.com,12343,15/11/1996,31/06/2022 15:00,45,toux
+Dupont,Antoine,0607,dupont@gmail.com,12343,15/11/1996,06/07/2022 16:00,45,repos
+Lucille,Bornnarde,0692938607,madambornnarde.46789xkv26http:ww@gmail.com,234567894567775,25/12/2021,26/06/2025 15:15,50,cancer

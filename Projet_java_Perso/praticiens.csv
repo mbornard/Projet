@@ -1,0 +1,5 @@
+ userID, specialite, nom, prenom, numtel , mail
+chiro,chiropracteur,Lama,Chine,0506821678,mi@gmail.com
+dentiste,dentiste,Hippo,tame,0904567123,hippo@gmail.com
+doc1,generaliste,Giraffe,savane,0512321987,giraffe@gmail.com
+doc2,generaliste,Zebre,noir,0997512350,zebre@gmail.com

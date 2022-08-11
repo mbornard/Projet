@@ -1,0 +1,6 @@
+  nom,  prenom,  numtel,  mail,  NumSecu,  DateNaissance, DateRDV, duree, motif
+Ntamack,Romain,0623546790,romainNt@stade_tls.fr,199437981433570,01/05/1999,03/06/2022 12:00,20,douleur mollet
+Mola,ugo,0789412894,ugo@staffST.fr,173026983265754,14/05/1973,04/06/2022 16:00,50,problème
+Dupont,Antoine,0683286754,totoDupont@stade_tls.fr,196314826743215,15/11/1996,04/06/2022 19:30,30,fatigue musculaire
+medart,maxime,0607884445,medard@stade_tls.fr,186493219065437,16/11/1986,07/06/2022 16:00,95,retraite
+Dupont,Antoine,0683286754,totoDupont@stade_tls.fr,196314826743215,15/11/1996,08/06/2022 09:00,30,malade

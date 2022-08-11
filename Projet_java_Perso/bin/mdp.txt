@@ -1,0 +1,7 @@
+login:password
+admin:root
+accueil:test
+doc1:medecine
+doc2:pass
+chiro:lass
+dentiste:dent
